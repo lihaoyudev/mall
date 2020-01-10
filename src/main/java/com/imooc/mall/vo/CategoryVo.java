@@ -5,6 +5,7 @@ import lombok.Data;
 import java.util.List;
 
 /**
+ * 分类VO
  */
 @Data
 public class CategoryVo {
